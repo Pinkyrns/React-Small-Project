@@ -1,0 +1,13 @@
+.button{
+    width: 2.5rem;
+    height: 2.5rem;
+    margin: 5px;
+    font-size:1.5rem;
+    font-weight: 600;
+}
+.ButtonSection{
+    padding: 2rem;
+    text-align: center;
+    width: 70%;
+
+}
